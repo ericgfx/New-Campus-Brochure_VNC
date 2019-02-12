@@ -1,0 +1,97 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: New Facility Brochure_BRO_VNC.indd
+
+PACKAGE DATE: 2/12/19 12:05 PM
+Creation Date: 2/12/19
+Modification Date: 2/12/19
+
+CONTACT INFORMATION
+
+Company Name: Eric Gross Design LLC
+Contact: Eric Gross
+Address: 
+414 Grand Ave Suite 32
+Oakland, CA
+94610
+
+
+Phone: 510-289-8906
+Fax: 
+Email: eric@ericgrossdesign.com
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+100LB Text Gloss Endurance
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1, 2
+
+FONTS
+7 Fonts Used; 0 Missing, 2 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Helvetica; Type: ???, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-It; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Lt; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Lt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-LtCn; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 2 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 71.565; Lines/Inch: 190.000
+- Name and Type: Process Magenta; Angle: 18.434; Lines/Inch: 190.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 200.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 212.000
+- Name and Type: C0 M0 Y0 K75; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 426 C; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 9 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 1 use RGB color space
+
+
+PRINT SETTINGS
+PPD: SHARP MX-5111N PPD, (Sharp MX-7001N)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: Scale to fit page
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: Crops, Page Info
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 12 in x 9 in
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. New Facility Brochure_BRO_VNC.indd; type: Adobe InDesign publication; size: 2512K
+2. New Facility Brochure_BRO_VNC.idml; type: InDesign Markup Document; size: 134K
+3. New Facility Brochure_BRO_VNC.pdf; type: Adobe Acrobat Document; size: 2235K
+4. HelveticaNeueLTStd-Bd.otf; type: Font file; size: 28K
+5. HelveticaNeueLTStd-It.otf; type: Font file; size: 28K
+6. HelveticaNeueLTStd-Lt_0.otf; type: Font file; size: 28K
+7. HelveticaNeueLTStd-LtCn_0.otf; type: Font file; size: 27K
+8. MinionPro-Regular.otf; type: Font file; size: 213K
